@@ -1,7 +1,12 @@
 import React from "react";
+import HomeBox from "../../components/HomeBox/HomeBox";
 
 function Home() {
-  return <div>Home</div>;
+  return (
+    <>
+    <HomeBox/>
+    </>
+  );
 }
 
 export default Home;
