@@ -1,0 +1,322 @@
+.card-1{
+    
+position: absolute;
+width: 456px;
+height: 671px;
+left: 52px;
+top: 2024px;
+
+background: #DAF8FF;
+border-radius: 25px;
+}
+.card-2{
+    
+    position: absolute;
+width: 456px;
+height: 671px;
+left: 549px;
+top: 2024px;
+
+background: #DAF8FF;
+border-radius: 25px;
+    }
+.card-3{
+    
+    position: absolute;
+    width: 456px;
+    height: 671px;
+    left: 1046px;
+    top: 2024px;
+    
+    background: #DAF8FF;
+    border-radius: 25px;
+        }
+.background-blue {
+    background-color: blue;
+  }
+.card-img-top{
+    position: relative;
+    width: 180px;
+    height: 351px;
+    width: auto;
+    height: 40%;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px; 
+    
+}
+.drawing-1{
+position: absolute;
+width: 32px;
+height: 41px;
+left: 110px;
+top: 2501px;
+}
+.drawing-2{
+    position: absolute;
+width: 32px;
+height: 41px;
+left: 607px;
+top: 2501px;
+}
+.drawing-3{
+    position: absolute;
+    width: 32px;
+    height: 41px;
+    left: 1104px;
+    top: 2501px;
+}
+.card1{
+    position: absolute;
+    width: 340px;
+    height: 351px;
+    left: 110px;
+    top: 2065px;
+    border-radius: 25px;
+}
+
+.new{
+    /* Upcoming Events */
+
+
+position: absolute;
+width: 515px;
+height: 73px;
+left: 484px;
+top: 1899px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 73px;
+
+
+color: #FFFFFF;
+}
+.text{
+    position: absolute;
+width: 138px;
+height: 30px;
+left: 211px;
+top: 2612px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #FFFFFF;
+}
+.bgbg{
+
+position: absolute;
+width: 1526px;
+height: 886px;
+left: 0px;
+top: 1871px;
+
+background: #416FE6;
+}
+
+.card-deck{
+    display: flex;
+    flex-direction: row;
+}
+.mybtn-1{
+    position: absolute;
+width: 209px;
+height: 75px;
+left: 176px;
+top: 2589px;
+background: #5833DC;
+border-radius: 20px;
+/* below is css for button */
+position: absolute;
+width: 138px;
+height: 30px;
+left: 211px;
+top: 2612px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+color: #FFFFFF;
+}
+.mybtn-2{
+    position: absolute;
+    width: 209px;
+    height: 75px;
+    left: 673px;
+    top: 2589px;
+    background: #5833DC;
+    border-radius: 20px;
+
+    /* below is css for know more */
+    position: absolute;
+width: 138px;
+height: 30px;
+left: 708px;
+top: 2612px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #FFFFFF;
+}
+.mybtn-3{
+    position: absolute;
+    width: 209px;
+    height: 75px;
+    left: 1170px;
+    top: 2589px;
+    
+    background: #5833DC;
+    border-radius: 20px;
+/*  below is css for know more*/
+    position: absolute;
+width: 138px;
+height: 30px;
+left: 1205px;
+top: 2612px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #FFFFFF;
+}
+.card-title-1{
+    position: absolute;
+width: 234px;
+height: 48px;
+left: 163px;
+top: 2435px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+.card-title-2{
+    position: absolute;
+    width: 234px;
+    height: 48px;
+    left: 660px;
+    top: 2435px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    
+    color: #000000;
+}
+.card-title-3{
+    position: absolute;
+width: 234px;
+height: 48px;
+left: 1157px;
+top: 2435px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+.card-text-1{
+    position: absolute;
+width: 140px;
+height: 30px;
+left: 157px;
+top: 2507px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+
+color: #000000;
+}
+.card-text-2{
+    
+    position: absolute;
+    width: 140px;
+    height: 30px;
+    left: 654px;
+    top: 2507px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    
+    color: #000000;
+}
+.card-text-3{
+    position: absolute;
+width: 140px;
+height: 30px;
+left: 1151px;
+top: 2507px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+
+color: #000000;
+}
+.card2{
+    position: absolute;
+    width: 340px;
+    height: 351px;
+    left: 608px;
+    top: 2065px;
+    
+    border-radius: 15px;
+}
+.card3{
+    position: absolute;
+    width: 340px;
+    height: 351px;
+    left: 1104px;
+    top: 2065px;
+    
+    border-radius: 15px;
+}
+.heading{
+    position: absolute;
+width: 515px;
+height: 73px;
+left: 484px;
+top: 1899px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 73px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
