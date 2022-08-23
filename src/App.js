@@ -8,6 +8,7 @@ import "./util/animation/Animation.scss";
 import "./App.css";
 import Facilities from "./pages/Facilities/Facilities";
 import ContactUs from "./pages/ContactUs/ContactUs";
+import Galleries from "./pages/Galleries/Galleries"
 
 function App() {
   return (
@@ -21,6 +22,8 @@ function App() {
             <Route path="/people" component={People} />
             <Route path="/facilities" component={Facilities} />
             <Route path="/contact" component={ContactUs} />
+            <Route path="/galleries" component={Galleries} />
+            
           </Switch>
         </div>
         <Footer />
